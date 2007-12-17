@@ -10,7 +10,6 @@ License:	GPL
 Group:		Networking/WWW
 URL:		http://sitescooper.org/
 Source:		%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildArch:	noarch
 Requires:	perl-DB_File
 
