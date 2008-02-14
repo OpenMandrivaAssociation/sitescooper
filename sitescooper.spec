@@ -8,6 +8,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Networking/WWW
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL:		http://sitescooper.org/
 Source:		%{name}-%{version}.tar.bz2
 BuildArch:	noarch
