@@ -1,5 +1,5 @@
 %define version	3.1.2
-%define release	%mkrel 7
+%define release	%mkrel 9
 %define name	sitescooper
 
 Name:		%{name}
