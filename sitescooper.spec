@@ -9,7 +9,7 @@
 Name:		sitescooper
 Summary:	Convert websites for reading on a Palm
 Version:	3.1.2
-Release:	12
+Release:	13
 License:	GPL
 Group:		Networking/WWW
 URL:		http://sitescooper.org/
