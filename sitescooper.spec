@@ -12,7 +12,7 @@ Version:	3.1.2
 Release:	13
 License:	GPL
 Group:		Networking/WWW
-URL:		http://sitescooper.org/
+URL:		https://sitescooper.org/
 Source:		%{name}-%{version}.tar.bz2
 BuildArch:	noarch
 Requires:	perl-DB_File
