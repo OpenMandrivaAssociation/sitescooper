@@ -17,6 +17,7 @@ Source:		%{name}-%{version}.tar.bz2
 BuildArch:	noarch
 Requires:	perl-DB_File
 
+BuildRequires:	make
 %description
 Sitescooper automatically retrieves the stories from several news websites,
 trims off extraneous HTML, and converts them into formats you can read on your
